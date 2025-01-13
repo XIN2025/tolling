@@ -70,9 +70,6 @@ make build
 ./promtheus --config.file=<your_config_file>yml
 ```
 
-4. In the projects case that would be (running from inside the project directory)
 ```
 ../prometheus/prometheus --config.file=.config/prometheus.yml
 ```
-
-
